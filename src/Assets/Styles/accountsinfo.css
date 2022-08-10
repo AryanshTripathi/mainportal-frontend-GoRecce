@@ -38,8 +38,10 @@ hr {
 }
 
 .nav-text:hover {
-  background-color: #ff6767;
-  color: white;
+  color: #ff6767
+}
+.sel{
+  color: #ff6767
 }
 
 
